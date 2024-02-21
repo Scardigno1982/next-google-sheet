@@ -41,6 +41,7 @@ export default function Home({ data }) {
         <br />
         <code>SPREADSHEET_NAME=[SHEET NAME]</code>
         <p>
+
           <a href="https://github.com/lucasromerodb/nextsheet">GitHub repo »</a>
           <br />
         </p>
